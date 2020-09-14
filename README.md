@@ -1,0 +1,2 @@
+# trex.com
+trex.chrome
